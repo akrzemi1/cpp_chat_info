@@ -19,3 +19,8 @@ Meeting ID: 965 0465 9411 <br>
 Password: 5k3wMe
 
 You may need to drop from VPN to join.
+
+
+C++ Chat on June 03
+
+We will run it on Microsoft Teams. You can connect from outside Sabre via this link: https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTBlYTMwYmMtOTZhZC00NmE3LWE4ZDctZWI2YTQ1NTJjZDIw%40thread.v2/0?context=%7b%22Tid%22%3a%2203ceccf2-fe27-4c66-abdb-699141848e61%22%2c%22Oid%22%3a%2282c094a9-59b3-47e1-9ecb-945f07f9a782%22%7d
